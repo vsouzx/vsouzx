@@ -22,3 +22,8 @@
      <img height="50" width+"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />   
      <img height="50" width+"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
 </div>
+    <div align="center">
+  
+     ![Snake animation](https://github.com/vsouzx/vsouzx/blob/output/github-contribution-grid-snake.svg)
+  
+    </div>
