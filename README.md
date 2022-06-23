@@ -5,7 +5,7 @@ Meu nome é Vitor Souza, sou desenvolvedor Web Java e formado em Análise e Dese
 ### Tecnologias💻
 
 <div style="display: inline-block"><br>
-    <i class="devicon-java-plain"></i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
 
 ##
