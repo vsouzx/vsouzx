@@ -17,5 +17,5 @@ Meu nome é Vitor Souza, sou desenvolvedor Web Java e formado em Análise e Dese
 ![hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-![Snake animation](https://github.com/vsouzx)
+![Snake animation](https://github.com/vsouzx/vsouzx/blob/output/github-contribution-grid-snake.svg)
 
