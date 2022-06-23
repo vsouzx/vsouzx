@@ -6,8 +6,9 @@ Meu nome é Vitor Souza, sou desenvolvedor Web Java e formado em Análise e Dese
 
 <div style="display: inline-block"><br>
     <i class="devicon-java-plain"></i>
+</div>
 
-    ##
+##
     
 ![Snake animation](https://github.com/vsouzx/vsouzx/blob/output/github-contribution-grid-snake.svg)
 
