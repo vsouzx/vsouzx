@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">  
-    <h1 align="left">Eae, meu nome é <a href="https://www.linkedin.com/in/vitor-souzaa/"><i>Vitor Souza Oliveira!</i></a></h1>
+    <h1>Eae, meu nome é <a href="https://www.linkedin.com/in/vitor-souzaa/"><i>Vitor Souza Oliveira!</i></a></h1>
 </div>
 
 <div align="center">
