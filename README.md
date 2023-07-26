@@ -14,16 +14,7 @@
   </a>
 </div>
     
-<div align="center" style="display: inline-block; margin-right: 3px">
-    <br>
-     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />
-     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,aws,redis,mysql,docker,mongodb)](https://skillicons.dev)
     
 ![Snake animation](https://github.com/vsouzx/vsouzx/blob/output/github-contribution-grid-snake.svg)
 </div>
