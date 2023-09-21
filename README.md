@@ -9,6 +9,7 @@ Por aqui, você encontrará alguns projetos focados no backend, usando as seguin
 <p>-Banco de dados (MSSQL)</p>
 <p>-Docker</p>
 <p>-Kafka</p>
+<p>-AWS</p>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,aws,redis,mysql,docker,mongodb)](https://skillicons.dev)
 
