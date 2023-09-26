@@ -7,6 +7,7 @@ Por aqui, você encontrará alguns projetos focados no backend, usando as seguin
 <p>-Spring Cloud</p>
 <p>-Microsservicos</p>
 <p>-Banco de dados (MSSQL)</p>
+<p>-Redis</p>
 <p>-Docker</p>
 <p>-Kafka</p>
 <p>-AWS</p>
