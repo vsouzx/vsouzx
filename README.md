@@ -6,6 +6,8 @@ Por aqui, você encontrará alguns projetos focados no backend, usando as seguin
 <p>-Spring Boot</p>
 <p>-Spring Cloud</p>
 <p>-Microsservicos</p>
+<p>-Server-Sent Events (SSE)</p>
+<p>-WebSockets</p>
 <p>-Banco de dados (MSSQL)</p>
 <p>-Redis</p>
 <p>-Docker</p>
