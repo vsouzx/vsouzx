@@ -14,6 +14,13 @@ Por aqui, você encontrará alguns projetos focados no backend, usando as seguin
 <p>-Kafka</p>
 <p>-AWS</p>
 
+Sobre os Design Patterns:
+-Strategy
+-Factory
+-Singleton
+-Builder
+-Data Transfer Objects
+
 [![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,aws,redis,mysql,docker,mongodb)](https://skillicons.dev)
 
 <hr>
