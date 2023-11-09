@@ -14,6 +14,8 @@ Por aqui, você encontrará alguns projetos focados no backend, usando as seguin
 <p>-Kafka</p>
 <p>-AWS</p>
 
+<hr>
+
 Sobre os Design Patterns:
 <p>-Strategy</p>
 <p>-Factory</p>
