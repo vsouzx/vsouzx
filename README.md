@@ -1,6 +1,8 @@
 
 <h2> Eae, meu nome é <a href="https://www.linkedin.com/in/vitor-souzaa/"><i>Vitor Souza Oliveira!</i></a></h2>
 
+Foco atual: Estudando para certificação AWS Cloud Practioner!
+
 [![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,aws,redis,mysql,docker,mongodb)](https://skillicons.dev)
 
 Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
