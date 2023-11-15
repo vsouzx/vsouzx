@@ -16,7 +16,7 @@ Por aqui, você encontrará alguns projetos focados no backend, usando as seguin
 <p>-Redis</p>
 <p>-Docker</p>
 <p>-Kafka</p>
-<p>-AWS</p>
+<p>SDKs da AWS (Bucket S3 e Rekognition)</p>
 
 <hr>
 
