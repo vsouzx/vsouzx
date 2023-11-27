@@ -12,7 +12,7 @@ Por aqui, você encontrará alguns projetos focados no backend, usando as seguin
 <p>-Microsservicos</p>
 <p>-Server-Sent Events (SSE)</p>
 <p>-WebSockets</p>
-<p>-Banco de dados (MSSQL)</p>
+<p>-Banco de dados (MSSQL e MySQL)</p>
 <p>-Redis</p>
 <p>-Docker</p>
 <p>-Kafka</p>
