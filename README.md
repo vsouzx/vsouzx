@@ -3,10 +3,11 @@
 
 Foco atual: Estudando para certificação AWS Cloud Practioner!
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,aws,redis,mysql,docker,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,kafka,aws,redis,mysql,docker,mongodb)](https://skillicons.dev)
 
 Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
 <p>-Java</p> 
+<p>-Kotlin</p> 
 <p>-Spring Boot</p>
 <p>-Spring Cloud</p>
 <p>-Microsservicos</p>
