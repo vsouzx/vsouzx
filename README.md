@@ -1,7 +1,12 @@
 
-<h2> Eae, meu nome é <a href="https://www.linkedin.com/in/vitor-souzaa/"><i>Vitor Souza Oliveira!</i></a></h2>
+<code>System.out.println("Bem vindo ao meu github!😆")</code>
+<hr>
 
-Foco atual: Estudando para certificação AWS Cloud Practioner!
+<p>💻Desenvolvedor Java Pleno na <a href="https://absoftware.com.br/" target="blank_">Asset Banking System</a></p>
+<p>📚Estudando Java, Kotlin, Microsserviços, AWS e Padrões de projeto</p>
+<p>👨‍💻Graduado em Análise e Desenvolvimento de Sistemas na <a href="https://portal.anhembi.br/?gad_source=1&gclid=CjwKCAiApuCrBhAuEiwA8VJ6JiDseguF4XHpGJ1gHQAwfFJtjnb7r05FtNFFAayWa_aFYNKWyJLu0BoCi0MQAvD_BwE" target="blank_">Anhembi Morumbi</a></p>
+
+<hr>
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,kafka,aws,redis,mysql,docker,mongodb)](https://skillicons.dev)
 
