@@ -22,7 +22,9 @@ Por aqui, você encontrará alguns projetos focados no backend, usando as seguin
 <p>-Redis</p>
 <p>-Docker</p>
 <p>-Kafka</p>
-<p>-SDKs da AWS (Bucket S3, Lambda e Rekognition)</p>
+<p>-AWS Bucket S3</p>
+<p>-AWS Lambda</p>
+<p>-AWS Rekognition</p>
 
 <hr>
 
