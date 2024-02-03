@@ -12,7 +12,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,kafka,aws,redis,mysql,docker,mongodb)](https://skillicons.dev)
 
-Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
+Here you'll find some projects focused in the following technologies:
 <p>-Java</p> 
 <p>-Kotlin</p> 
 <p>-Spring Boot</p>
@@ -39,7 +39,7 @@ Sobre os Design Patterns:
 
 <hr>
 
-Chega mais e da uma olhadinha nos meus códigos. Talvez eles te ajudem de alguma forma :)
+Enjoy :)
 
 
     
