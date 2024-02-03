@@ -6,7 +6,7 @@
 <p>🔠<a href="https://www.efset.org/cert/KjKPY3C1">Advanced English Level</a></p>
 <p>☁️<a href="">1x AWS Cloud Certified</a></p>
 <p>📚Studing Cloud Solutions and Event-Driven Architecture</p>
-<p>👨‍💻Graduated in Systems Analysis and Development at < a href="https://portal.anhembi.br/?gad_source=1&gclid=CjwKCAiApuCrBhAuEiwA8VJ6JiDseguF4XHpGJ1gHQAwfFJtjnb7r05FtNFFAayWa_aFYNKWyJLu0BoCi0MQAvD_BwE" target="blank_">Anhembi Morumbi</a></p>
+<p>👨‍💻Graduated in Systems Analysis and Development at <a href="https://portal.anhembi.br/?gad_source=1&gclid=CjwKCAiApuCrBhAuEiwA8VJ6JiDseguF4XHpGJ1gHQAwfFJtjnb7r05FtNFFAayWa_aFYNKWyJLu0BoCi0MQAvD_BwE" target="blank_">Anhembi Morumbi</a></p>
 
 <hr>
 
