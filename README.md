@@ -1,10 +1,12 @@
 
-<code>System.out.println("Bem vindo ao meu github!😆")</code>
+<code>System.out.println("Welcome to my github!😆")</code>
 <hr>
 
-<p>💻Desenvolvedor Java Pleno na <a href="https://absoftware.com.br/" target="blank_">Asset Banking System</a></p>
-<p>📚Estudando Java, Kotlin, Microsserviços, AWS e Padrões de projeto</p>
-<p>👨‍💻Graduado em Análise e Desenvolvimento de Sistemas na <a href="https://portal.anhembi.br/?gad_source=1&gclid=CjwKCAiApuCrBhAuEiwA8VJ6JiDseguF4XHpGJ1gHQAwfFJtjnb7r05FtNFFAayWa_aFYNKWyJLu0BoCi0MQAvD_BwE" target="blank_">Anhembi Morumbi</a></p>
+<p>💻Midlevel Software Engineer at <a href="https://absoftware.com.br/" target="blank_">Asset Banking System</a></p>
+<p>🔠<a href="https://www.efset.org/cert/KjKPY3C1">Advanced English Level</a></p>
+<p>☁️<a href="">1x AWS Cloud Certified</a></p>
+<p>📚Studing Cloud Solutions and Event-Driven Architecture</p>
+<p>👨‍💻Graduated in Systems Analysis and Development at < a href="https://portal.anhembi.br/?gad_source=1&gclid=CjwKCAiApuCrBhAuEiwA8VJ6JiDseguF4XHpGJ1gHQAwfFJtjnb7r05FtNFFAayWa_aFYNKWyJLu0BoCi0MQAvD_BwE" target="blank_">Anhembi Morumbi</a></p>
 
 <hr>
 
