@@ -20,7 +20,7 @@ Here you'll find some projects focused in the following technologies:
 <p>-Microsservicos</p>
 <p>-Server-Sent Events (SSE)</p>
 <p>-WebSockets</p>
-<p>-Banco de dados (MSSQL e MySQL)</p>
+<p>-Relational and Non-Relational Databases (SQL Server, MySQL, MongoDB)</p>
 <p>-Redis</p>
 <p>-Docker</p>
 <p>-Kafka</p>
@@ -30,7 +30,7 @@ Here you'll find some projects focused in the following technologies:
 
 <hr>
 
-Sobre os Design Patterns:
+And also about the following Design Patterns:
 <p>-Strategy</p>
 <p>-Factory</p>
 <p>-Singleton</p>
