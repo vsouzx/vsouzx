@@ -27,6 +27,9 @@ Here you'll find some projects focused in the following technologies:
 <p>-AWS Bucket S3</p>
 <p>-AWS Lambda</p>
 <p>-AWS Rekognition</p>
+<p>-AWS Translate</p>
+<p>-AWS SNS</p>
+<p>-AWS SQS</p>
 
 <hr>
 
