@@ -15,8 +15,8 @@
 Here you'll find some projects focused in the following technologies:
 <p>-Java</p> 
 <p>-Kotlin</p> 
-<p>-Spring Boot</p>
-<p>-Spring Cloud</p>
+<p>-Spring Boot (Web, Data JPA, Security)</p>
+<p>-Spring Cloud (Config Server, Discovery, API Gateway, OpenFeign)</p>
 <p>-Microsservicos</p>
 <p>-Server-Sent Events (SSE)</p>
 <p>-WebSockets</p>
