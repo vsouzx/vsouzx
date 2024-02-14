@@ -7,7 +7,7 @@
 <p>☁️ <a href="https://www.credly.com/badges/db773eb9-df4c-41f1-a42a-b5b2cd08742e/linked_in_profile">1x AWS Certified</a></p>
 <p>📚 Studing Cloud Solutions and Event-Driven Architecture</p>
 <p>🎓 Graduated in Systems Analysis and Development at <a href="https://portal.anhembi.br/?gad_source=1&gclid=CjwKCAiApuCrBhAuEiwA8VJ6JiDseguF4XHpGJ1gHQAwfFJtjnb7r05FtNFFAayWa_aFYNKWyJLu0BoCi0MQAvD_BwE" target="blank_">Anhembi Morumbi</a></p>
-<p>🎥 Tech content creator. I share informative content at my <a href="https://www.tiktok.com/@souzaa.dev" target="_blank">Tiktok</a> (35k+), <a href="https://www.instagram.com/souzaa.dev/" target="_blank">Instagram</a> (3k+) and <a href="https://www.linkedin.com/in/vitor-souzaa/" target="_blank">LinkedIn</a> (11k+)</p>
+<p>🎥 Tech content creator. I share informative content at my <a href="https://www.tiktok.com/@souzaa.dev" target="_blank">Tiktok</a> (42k+), <a href="https://www.instagram.com/souzaa.dev/" target="_blank">Instagram</a> (3k+) and <a href="https://www.linkedin.com/in/vitor-souzaa/" target="_blank">LinkedIn</a> (12k+)</p>
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,kafka,aws,redis,mysql,docker,mongodb)](https://skillicons.dev)
