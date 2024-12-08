@@ -7,8 +7,7 @@
 <p>✈️ Lived in Canada (Toronto) for 3 months on an exchange program </a></p>
 <p>☁️ <a href="https://www.credly.com/badges/db773eb9-df4c-41f1-a42a-b5b2cd08742e/linked_in_profile">1x AWS Certified</a></p>
 <p>🔠 <a href="https://www.efset.org/cert/KjKPY3">C1 Advanced English Level</a></p>
-<p>📚 Studing Cloud Solutions and Event-Driven Architecture</p>
-<p>🎥 Tech content creator. I share informative content at my <a href="https://www.tiktok.com/@souzaa.dev" target="_blank">Tiktok</a> (112k+), <a href="https://www.instagram.com/souzaa.dev/" target="_blank">Instagram</a> (14k+), <a href="https://www.youtube.com/channel/UCyVjCn2LHImr0ZXL4BpOMug" target="_blank">Youtube</a> (4k+) and <a href="https://www.linkedin.com/in/vitor-souzaa/" target="_blank">LinkedIn</a> (25k+)</p>
+<p>🎥 Tech content creator. I share informative content at my <a href="https://www.tiktok.com/@souzaa.dev" target="_blank">Tiktok</a> (115k+), <a href="https://www.instagram.com/souzaa.dev/" target="_blank">Instagram</a> (15k+), <a href="https://www.youtube.com/channel/UCyVjCn2LHImr0ZXL4BpOMug" target="_blank">Youtube</a> (5k+) and <a href="https://www.linkedin.com/in/vitor-souzaa/" target="_blank">LinkedIn</a> (25k+)</p>
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,kafka,aws,redis,mysql,docker,mongodb)](https://skillicons.dev)
