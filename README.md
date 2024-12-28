@@ -14,10 +14,13 @@
 
 Here you'll find some projects focused in the following technologies:
 <p>-Java</p> 
+<p>-Python</p> 
 <p>-Kotlin</p> 
 <p>-Spring Boot (Web, Data JPA, Security)</p>
 <p>-Spring Cloud (Config Server, Discovery, API Gateway, OpenFeign)</p>
 <p>-Microsservicos</p>
+<p>-Terraform</p>
+<p>-Github Actions CI/CD</p>
 <p>-Server-Sent Events (SSE)</p>
 <p>-WebSockets</p>
 <p>-Relational and Non-Relational Databases (SQL Server, MySQL, MongoDB)</p>
@@ -30,6 +33,7 @@ Here you'll find some projects focused in the following technologies:
 <p>-AWS Translate</p>
 <p>-AWS SNS</p>
 <p>-AWS SQS</p>
+<p>-AWS Dynamodb</p>
 
 <hr>
 
