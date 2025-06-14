@@ -10,4 +10,4 @@
 <p>🎥 Tech content creator. I share informative content at my <a href="https://www.tiktok.com/@souzaa.dev" target="_blank">Tiktok</a> (155k+), <a href="https://www.instagram.com/souzaa.dev/" target="_blank">Instagram</a> (52k+), <a href="https://www.youtube.com/channel/UCyVjCn2LHImr0ZXL4BpOMug" target="_blank">Youtube</a> (14k+) and <a href="https://www.linkedin.com/in/vitor-souzaa/" target="_blank">LinkedIn</a> (37k+)</p>
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,kotlin,spring,kafka,aws,redis,postgresql,mysql,docker,mongodb,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,go,python,kotlin,spring,kafka,aws,redis,postgresql,mysql,docker,mongodb,terraform)](https://skillicons.dev)
