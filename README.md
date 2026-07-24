@@ -22,8 +22,8 @@ Backend & distributed systems (Java · Go · Kotlin) with 4+ years of experience
 
 ## 📺 Latest videos
 
-<!-- YOUTUBE-CARDS-START -->
-<!-- YOUTUBE-CARDS-END -->
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 <br/>
 
