@@ -1,6 +1,6 @@
 ## Vitor Souza
 
-Hello, my name is Vitor Souza, I'm a brazilian software engineer at [Itaú Unibanco](https://www.itau.com.br) working with backend and distributed systems, and a content creator. I really like building software at scale.
+Hello, my name is Vitor Souza, I'm a brazilian software engineer at [Itaú Unibanco](https://www.itau.com.br) working with backend and distributed systems, and a content creator. I'm not interested in perfect systems. I'm interested in systems that survive reality.
 
 [1x AWS Certified](https://www.credly.com/badges/db773eb9-df4c-41f1-a42a-b5b2cd08742e/linked_in_profile) and [C1 Advanced English](https://www.efset.org/cert/KjKPY3). I studied Systems Analysis and Development at Anhembi Morumbi and lived in Toronto, Canada for 3 months on an exchange program.
 
