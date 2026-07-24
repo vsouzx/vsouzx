@@ -1,0 +1,34 @@
+name: Update YouTube cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate YouTube cards
+        uses: DenverCoder1/github-readme-youtube-cards@v1
+        with:
+          channel_id: UCyVjCn2LHImr0ZXL4BpOMug
+          comment_tag_name: YOUTUBE-CARDS
+          max_videos: 3
+          card_width: 250
+          background_color: "#0d1117"
+          title_color: "#ffffff"
+          stats_color: "#dedede"
+          show_duration: "true"
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update latest YouTube videos"
