@@ -23,6 +23,9 @@ Backend & distributed systems (Java · Go · Kotlin) with 4+ years of experience
 ## 📺 Latest videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Um dia na vida de um DEV no Itaú...](https://ytcards.demolab.com/?id=tuqV9JSPvBk&title=Um+dia+na+vida+de+um+DEV+no+Ita%C3%BA...&lang=en&timestamp=1779288302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Um dia na vida de um DEV no Itaú...")](https://www.youtube.com/watch?v=tuqV9JSPvBk)
+[![Curso Spring Boot: Dominando o Spring Security - Parte 3](https://ytcards.demolab.com/?id=KYa4xQaQ7SU&title=Curso+Spring+Boot%3A+Dominando+o+Spring+Security+-+Parte+3&lang=en&timestamp=1777584600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Curso Spring Boot: Dominando o Spring Security - Parte 3")](https://www.youtube.com/watch?v=KYa4xQaQ7SU)
+[![Curso Spring Boot: Dominando o Spring Data JPA - Parte 2](https://ytcards.demolab.com/?id=XgfAabFGGj4&title=Curso+Spring+Boot%3A+Dominando+o+Spring+Data+JPA+-+Parte+2&lang=en&timestamp=1774881900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Curso Spring Boot: Dominando o Spring Data JPA - Parte 2")](https://www.youtube.com/watch?v=XgfAabFGGj4)
 <!-- END YOUTUBE-CARDS -->
 
 <br/>
