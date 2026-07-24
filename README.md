@@ -1,60 +1,40 @@
-<div align="center">
+## Vitor Souza
 
-# Hi, I'm Vitor 👋
+Hello, my name is Vitor Souza, I'm a brazilian software engineer at [Itaú Unibanco](https://www.itau.com.br) working with backend and distributed systems, and a content creator. I really like building software at scale.
 
-**Software Engineer @ [Itaú Unibanco](https://www.itau.com.br/) · Tech Content Creator**
+[1x AWS Certified](https://www.credly.com/badges/db773eb9-df4c-41f1-a42a-b5b2cd08742e/linked_in_profile) and [C1 Advanced English](https://www.efset.org/cert/KjKPY3). I studied Systems Analysis and Development at Anhembi Morumbi and lived in Toronto, Canada for 3 months on an exchange program.
 
-Backend & distributed systems (Java · Go · Kotlin) with 4+ years of experience.<br/>
-☁️ [1x AWS Certified](https://www.credly.com/badges/db773eb9-df4c-41f1-a42a-b5b2cd08742e/linked_in_profile) &nbsp;·&nbsp; 🔠 [C1 Advanced English](https://www.efset.org/cert/KjKPY3) &nbsp;·&nbsp; 🎓 Systems Analysis & Development @ Anhembi Morumbi<br/>
-✈️ Exchange program in Toronto, Canada &nbsp;·&nbsp; 📍 São Paulo, Brazil 🇧🇷<br/>
-🎥 Teaching backend engineering to **340k+** across TikTok, Instagram, LinkedIn & YouTube.
+I publish my content on my YouTube channel [Souza DEV](https://www.youtube.com/@souzaadev), and share tech with 340k+ people across TikTok, Instagram and LinkedIn.
 
-<br/>
+[![SUBSCRIBE](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCyVjCn2LHImr0ZXL4BpOMug?color=000000&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=000000)](https://www.youtube.com/channel/UCyVjCn2LHImr0ZXL4BpOMug?sub_confirmation=1)
+[![VIEWS](https://custom-icon-badges.demolab.com/youtube/channel/views/UCyVjCn2LHImr0ZXL4BpOMug?color=000000&label=VIEWS&logo=eye&logoColor=white&style=for-the-badge&labelColor=000000)](https://www.youtube.com/channel/UCyVjCn2LHImr0ZXL4BpOMug)
+[![FOLLOW](https://custom-icon-badges.demolab.com/github/followers/vsouzx?color=000000&label=FOLLOW&logo=github&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/vsouzx?tab=followers)
+[![STARS](https://custom-icon-badges.demolab.com/github/stars/vsouzx?color=000000&label=STARS&logo=star&logoColor=white&style=for-the-badge&labelColor=000000)](https://github.com/vsouzx?tab=repositories&sort=stargazers)
 
-<!-- Counters -->
-<a href="https://youtube.com/@souzaadev"><img src="https://img.shields.io/youtube/channel/subscribers/UCyVjCn2LHImr0ZXL4BpOMug?style=flat-square&logo=youtube&logoColor=white&label=YouTube&labelColor=0d1117&color=FF0000" alt="YouTube subscribers" /></a>
-<a href="https://github.com/vsouzx"><img src="https://img.shields.io/github/followers/vsouzx?style=flat-square&logo=github&logoColor=white&label=GitHub&labelColor=0d1117&color=ffffff" alt="GitHub followers" /></a>
-<a href="https://tiktok.com/@souzaa.dev"><img src="https://img.shields.io/badge/TikTok-177k-0d1117?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-<a href="https://instagram.com/souzaa.dev"><img src="https://img.shields.io/badge/Instagram-80k-0d1117?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
-<a href="https://www.linkedin.com/in/vitor-souzaa/"><img src="https://img.shields.io/badge/LinkedIn-66k-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-
-<br/><br/>
-
-## 📺 Latest videos
+#### Latest videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Um dia na vida de um DEV no Itaú...](https://ytcards.demolab.com/?id=tuqV9JSPvBk&title=Um+dia+na+vida+de+um+DEV+no+Ita%C3%BA...&lang=en&timestamp=1779288302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Um dia na vida de um DEV no Itaú...")](https://www.youtube.com/watch?v=tuqV9JSPvBk)
-[![Curso Spring Boot: Dominando o Spring Security - Parte 3](https://ytcards.demolab.com/?id=KYa4xQaQ7SU&title=Curso+Spring+Boot%3A+Dominando+o+Spring+Security+-+Parte+3&lang=en&timestamp=1777584600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Curso Spring Boot: Dominando o Spring Security - Parte 3")](https://www.youtube.com/watch?v=KYa4xQaQ7SU)
-[![Curso Spring Boot: Dominando o Spring Data JPA - Parte 2](https://ytcards.demolab.com/?id=XgfAabFGGj4&title=Curso+Spring+Boot%3A+Dominando+o+Spring+Data+JPA+-+Parte+2&lang=en&timestamp=1774881900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Curso Spring Boot: Dominando o Spring Data JPA - Parte 2")](https://www.youtube.com/watch?v=XgfAabFGGj4)
 <!-- END YOUTUBE-CARDS -->
 
-<br/>
+#### Technologies and tools
 
-## 🛠 Tech stack
+[![JAVA](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![GO](https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=white)]()
+[![KOTLIN](https://img.shields.io/badge/kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)]()
+[![PYTHON](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)]()
+[![SPRING](https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring&logoColor=white)]()
+[![KAFKA](https://img.shields.io/badge/apache_kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)]()
+[![REDIS](https://img.shields.io/badge/redis-000000?style=for-the-badge&logo=redis&logoColor=white)]()
+[![POSTGRESQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![MONGODB](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white)]()
+[![DOCKER](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)]()
+[![TERRAFORM](https://img.shields.io/badge/terraform-000000?style=for-the-badge&logo=terraform&logoColor=white)]()
 
-<img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
-<img src="https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-<br/>
-<img src="https://img.shields.io/badge/Spring-0d1117?style=flat-square&logo=spring&logoColor=6DB33F" alt="Spring" />
-<img src="https://img.shields.io/badge/Apache%20Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-<img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis" />
-<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-<br/>
-<img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-<img src="https://img.shields.io/badge/Terraform-0d1117?style=flat-square&logo=terraform&logoColor=844FBA" alt="Terraform" />
+#### Socials
 
-<br/><br/>
-
-## 🌐 Connect
-
-<a href="https://www.linkedin.com/in/vitor-souzaa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/souzaa.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://tiktok.com/@souzaa.dev"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-<a href="https://youtube.com/@souzaadev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://x.com/souzaadev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-
-</div>
+[![LINKEDIN](https://img.shields.io/badge/Vitor%20Souza-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-souzaa/)
+[![TIKTOK](https://img.shields.io/badge/souzaa.dev-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@souzaa.dev)
+[![INSTAGRAM](https://img.shields.io/badge/souzaa.dev-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/souzaa.dev/)
+[![TWITTER](https://img.shields.io/badge/souzaadev-000000?style=flat&logo=x&logoColor=white)](https://x.com/souzaadev)
+[![YOUTUBE](https://img.shields.io/badge/Souza%20DEV-000000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@souzaadev)

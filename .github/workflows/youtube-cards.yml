@@ -23,7 +23,7 @@ jobs:
           comment_tag_name: YOUTUBE-CARDS
           max_videos: 3
           card_width: 250
-          background_color: "#0d1117"
+          background_color: "#000000"
           title_color: "#ffffff"
           stats_color: "#dedede"
           show_duration: "false"
