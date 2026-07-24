@@ -51,8 +51,8 @@ Backend & distributed systems (Java · Go · Kotlin) with 4+ years of experience
 
 ## 📊 GitHub stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vsouzx&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=ffffff&icon_color=FF0000" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsouzx&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=ffffff" alt="Top languages" />
+<img height="200" src="https://raw.githubusercontent.com/vsouzx/vsouzx/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+<img height="200" src="https://raw.githubusercontent.com/vsouzx/vsouzx/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages" />
 
 <br/><br/>
 
