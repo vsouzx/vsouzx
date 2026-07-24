@@ -49,10 +49,9 @@ Backend & distributed systems (Java · Go · Kotlin) with 4+ years of experience
 
 <br/><br/>
 
-## 📊 GitHub stats
+## 📊 Most used languages
 
-<img height="200" src="https://raw.githubusercontent.com/vsouzx/vsouzx/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
-<img height="200" src="https://raw.githubusercontent.com/vsouzx/vsouzx/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/vsouzx/vsouzx/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
 
 <br/><br/>
 
