@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate YouTube cards
-        uses: DenverCoder1/github-readme-youtube-cards@v1
+        uses: DenverCoder1/github-readme-youtube-cards@1.8.0
         with:
           channel_id: UCyVjCn2LHImr0ZXL4BpOMug
           comment_tag_name: YOUTUBE-CARDS
