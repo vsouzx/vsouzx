@@ -49,12 +49,6 @@ Backend & distributed systems (Java · Go · Kotlin) with 4+ years of experience
 
 <br/><br/>
 
-## 📊 Most used languages
-
-<img src="https://raw.githubusercontent.com/vsouzx/vsouzx/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
-
-<br/><br/>
-
 ## 🌐 Connect
 
 <a href="https://www.linkedin.com/in/vitor-souzaa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
