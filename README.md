@@ -14,7 +14,9 @@ I publish my content on my YouTube channel [Souza DEV](https://www.youtube.com/@
 #### Latest videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![3 dicas insanas para entrar no mercado de tecnologia! Cadastre-se de forma totalmente gratuita!](https://ytcards.demolab.com/?id=grN753tCtQE&title=3+dicas+insanas+para+entrar+no+mercado+de+tecnologia%21+Cadastre-se+de+forma+totalmente+gratuita%21&lang=en&timestamp=1785770721&background_color=%23000000&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "3 dicas insanas para entrar no mercado de tecnologia! Cadastre-se de forma totalmente gratuita!")](https://www.youtube.com/shorts/grN753tCtQE)
+[![Um dia na vida de um DEV no Itaú...](https://ytcards.demolab.com/?id=tuqV9JSPvBk&title=Um+dia+na+vida+de+um+DEV+no+Ita%C3%BA...&lang=en&timestamp=1779288302&background_color=%23000000&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Um dia na vida de um DEV no Itaú...")](https://www.youtube.com/watch?v=tuqV9JSPvBk)
+[![Curso Spring Boot: Dominando o Spring Security - Parte 3](https://ytcards.demolab.com/?id=KYa4xQaQ7SU&title=Curso+Spring+Boot%3A+Dominando+o+Spring+Security+-+Parte+3&lang=en&timestamp=1777584600&background_color=%23000000&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Curso Spring Boot: Dominando o Spring Security - Parte 3")](https://www.youtube.com/watch?v=KYa4xQaQ7SU)
 <!-- END YOUTUBE-CARDS -->
 
 #### Technologies and tools
